@@ -1,0 +1,16 @@
+# Flutter
+visite_securite/.dart_tool/
+visite_securite/.idea/
+visite_securite/.packages
+visite_securite/build/
+visite_securite/pubspec.lock
+
+# Java/Spring Boot
+securite/target/
+securite/.idea/
+securite/*.iml
+
+# Common
+*.log
+.DS_Store
+.env
